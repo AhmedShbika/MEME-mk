@@ -1,0 +1,105 @@
+body{ font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: #0d0a14;
+}
+
+.App{
+  position:relative ;bottom:  20px;right: 2px;
+opacity: 90%;
+}
+.name{
+font-size: 25px;
+color: #fff;
+margin: 0;
+}
+
+.content{
+  display: flex;
+flex-direction: column;
+align-items: center;
+line-height: 9px;
+padding-block: 10px;
+color: #fff;
+}
+.header{
+  background-color: #0d0a14;
+min-width: 350px;
+margin-left: 40px;
+min-height: 800px;
+position: relative;right: 45px;
+}
+.detail{
+  color: rgb(218, 233, 89);
+font-size: 20px;
+}
+.content>h5{
+  color: #fff;
+font-size: 10px;
+margin: 0;
+}
+.button1{
+  color: rgb(255, 0, 0);
+    
+}
+nav{
+  display: flex;
+justify-content: center;
+justify-content: space-evenly;
+}
+nav>a{
+
+text-decoration: none;
+
+background-color: #fff;
+padding: 20px;
+margin-top: 20px;
+padding-top: 10px;
+padding-bottom: 10px;
+
+}
+.herf{
+  padding-left: 20px;
+padding-right: 30px;
+color: #000;
+}
+.Main{
+  color: #fff;
+padding-left: 50px;
+max-height: 100px;
+}
+.herf2{
+  background-color:rgb(6, 75, 155);
+color: #fff;
+display: flex;
+align-items: center;
+
+}
+
+.section{
+  font-size: 20px;
+margin-top:20px;
+}
+.section0{  font-size: 20px;
+  margin-top:  -10px;
+}
+.talke{margin-top: -28px;
+  font-size: 15px;
+}
+.talke0{
+  font-size: 15px;
+  margin-top: -28px;
+}
+.socialmedia{
+  display: flex;
+position: relative;top: 50px;right: 2px;
+background-color: rgb(255, 255, 255);
+padding:10px;
+margin: -52px;
+padding-bottom: 20px;
+
+}
+.Appp{
+  position: relative;right: 10px;
+}
+.Apop{
+  position:relative;top: 6px;
+}
